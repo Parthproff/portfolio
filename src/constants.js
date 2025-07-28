@@ -40,7 +40,7 @@ import vscodeLogo from './assets/tech_logo/vscode.png';
 // import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
 
 // // Education Section Logo's
-import unknown from './assets/education_logo/unknown.jpeg';
+import unknown from './assets/education_logo/Unknown.jpeg';
 import hansraj from './assets/education_logo/hansraj.jpeg';
 import margaret from './assets/education_logo/margaret.jpeg';
 
