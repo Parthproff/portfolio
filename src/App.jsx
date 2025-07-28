@@ -1,5 +1,5 @@
 import React from 'react'
-import About from './assets/components/About/About'
+import About from './assets/components/about/About'
 import Contact from './assets/components/contact/Contact'
 import Education from './assets/components/education/Education'
 import Experience from './assets/components/experience/Experience'
